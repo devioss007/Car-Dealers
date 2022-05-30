@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Toyota",
+        "locations": "Chatswood, Parramatta, Castle Hill, Newtown",
+        "imageName": "toyota.png",
+        "thumbnailName": "CarsResources/toyota.jpg",
+        "type": "diesel"
+    },
+    {
+        "name": "BMW",
+        "locations": "New York City, London, Hong Kong, Dubai",
+        "imageName": "bmw.png",
+        "thumbnailName": "CarsResources/toyota.jpg",
+        "type": "diesel"
+    },
+    {
+        "name": "Honda",
+        "locations": "Singapore, Rome, Istanbul, Kuala Lumpur",
+        "imageName": "honda.png",
+        "thumbnailName": "CarsResources/toyota.jpg",
+        "type": "diesel"
+    },
+    {
+        "name": "Hyundai",
+        "locations": "Delhi, Tokyo, Antalya, Mexico",
+        "imageName": "hyundai.png",
+        "thumbnailName": "CarsResources/toyota.jpg",
+        "type": "petrol"
+    },
+    {
+        "name": "Tesla",
+        "locations": "Moscow, Porto, San Francisco, Beijing",
+        "imageName": "tesla.jpeg",
+        "thumbnailName": "CarsResources/toyota.jpg",
+        "type": "electric"
+    },
+    {
+        "name": "Mercedes",
+        "locations": "Los Angeles, Chicago, Barcelona, Abu Dhabi",
+        "imageName": "mercedes.jpeg",
+        "thumbnailName": "CarsResources/toyota.jpg",
+        "type": "petrol"
+    },
+    {
+        "name": "Audi",
+        "locations": "Amsterdam, Madrid, Sydney, San Miguel de Allende",
+        "imageName": "audi.png",
+        "thumbnailName": "CarsResources/toyota.jpg",
+        "type": "electric"
+    }
+]
